@@ -1,0 +1,12 @@
+{
+  "name": "susu-group-tracker",
+  "version": "1.0.0",
+  "description": "A command-line tracker for a rotating susu savings group.",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "scripts": {
+    "start": "node src/cli.js",
+    "test": "node --test"
+  }
+}

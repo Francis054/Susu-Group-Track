@@ -1,0 +1,1 @@
+// Susu group model placeholder.
